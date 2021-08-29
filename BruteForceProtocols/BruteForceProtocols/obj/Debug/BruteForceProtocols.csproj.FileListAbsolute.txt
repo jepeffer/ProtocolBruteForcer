@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\BruteForceProtocols\BruteForceProtocols\bin\Debug\BruteForceProtocols.exe
+C:\Users\User\source\repos\BruteForceProtocols\BruteForceProtocols\bin\Debug\BruteForceProtocols.pdb
+C:\Users\User\source\repos\BruteForceProtocols\BruteForceProtocols\obj\Debug\BruteForceProtocols.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BruteForceProtocols\BruteForceProtocols\obj\Debug\BruteForceProtocols.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BruteForceProtocols\BruteForceProtocols\obj\Debug\BruteForceProtocols.exe
+C:\Users\User\source\repos\BruteForceProtocols\BruteForceProtocols\obj\Debug\BruteForceProtocols.pdb
